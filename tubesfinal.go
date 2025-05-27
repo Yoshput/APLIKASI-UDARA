@@ -18,12 +18,12 @@ var data []DataPolusi
 
 func main() {
 	data = []DataPolusi{
-		{"Purwokerto", 100, "Kendaraan", "17-05-2025"},
-		{"Cilacap", 150, "Pabrik", "14-04-2025"},
-		{"Tegal", 200, "Pembakaran", "12-02-2025"},
-		{"Wonosobo", 50, "Kendaraan", "13-03-2025"},
-		{"Magelang", 100, "Kendaraan", "11-10-2025"},
-		{"Cikarang", 200, "Pabrik", "09-01-2025"},
+		{"Purwokerto", 108, "Kendaraan", "17-05-2025"},
+		{"Cilacap", 33, "Pabrik", "14-04-2025"},
+		{"Tegal", 87, "Pembakaran", "12-02-2025"},
+		{"Wonosobo", 132, "Kendaraan", "13-03-2025"},
+		{"Magelang", 155, "Kendaraan", "11-10-2025"},
+		{"Cikarang", 145, "Pabrik", "09-01-2025"},
 	}
 	menu()
 }
